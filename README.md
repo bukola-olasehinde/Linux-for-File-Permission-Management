@@ -21,7 +21,7 @@
 
 <b>Step 2: <br>Description of the permissions string above</b>
 <p>
-  The 10-character string (`rwxrwxrwx`) represents the read, write, and execute permissions for users, groups, and others in the filesystem. For directories(d), the permissions string appears as: <pre>drwxrwxrwx</pre>, while for regular files(-), it is represented as: <pre>-rwxrwxrwx</pre>.
+  The 10-character string (`rwxrwxrwx`) represents the read, write, and execute permissions for users, groups, and others in the filesystem. For directories(d), the permissions string appears as: <pre>drwxrwxrwx</pre> while for regular files(-) it is represented as: <pre>-rwxrwxrwx</pre>
 </p>
 
 <b>Step 3: <br>Changing file permissions</b>
